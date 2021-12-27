@@ -1,0 +1,7 @@
+3
+input1.bin
+output1.bin
+input2.bin
+output2.bin
+input3.bin
+output3.bin
